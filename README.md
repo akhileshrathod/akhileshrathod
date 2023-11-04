@@ -1,6 +1,6 @@
--  Hi, I’m @akhileshrathod
+-  Hi, I’m akhilesh
 -  I’m interested in tech field
--  I’m currently learning data analytics
 -  I would like to collaborate on a project with data analytics team
+-  ask me about java, data analytics
 -  How to reach me akhilrathod264@gmail.com
 
